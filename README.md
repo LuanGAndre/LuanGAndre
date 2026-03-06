@@ -13,6 +13,7 @@ Currently working with backend development, APIs, and database integrations whil
 <p align="left">
 🚀 At the moment I'm focused on improving my knowledge in <strong>Mobile Development</strong>.
 </p>
+
 ---
 
 <h3></h3>
